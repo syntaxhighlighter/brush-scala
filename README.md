@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-scala
 
-scala brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Scala brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-scala.svg)](https://travis-ci.org/alexgorbatchev/brush-scala)
 
