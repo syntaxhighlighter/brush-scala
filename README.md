@@ -2,11 +2,11 @@
 
 Scala brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-scala.svg)](https://travis-ci.org/alexgorbatchev/brush-scala)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-scala.svg)](https://travis-ci.org/syntaxhighlighter/brush-scala)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-scala
+    npm install @alexgorbatchev/brush-scala
 
 ## Testing
 
