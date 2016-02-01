@@ -1,5 +1,5 @@
 {
-  "name": "brush-scala",
+  "name": "@alexgorbatchev/brush-scala",
   "version": "4.0.0",
   "description": "scala brush module for SyntaxHighlighter.",
   "keywords": [
